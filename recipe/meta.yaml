@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.8.5" %}
+{% set version = "0.9.0" %}
 
 
 package:
@@ -8,11 +8,11 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/MOCPy-{{ version }}.tar.gz
-  sha256: 578c05c7f09017061a03a55dd9ca54353ea5c4de89bd16b1458b39b9ce22eeba
+  sha256: 2b60e5c2750dc19fac904142f543d42c6641b12e9f7576995bb3702ddf1b252a
 
 build:
   number: 0
-  skip: True  # [py<35]
+  skip: true  # [py<35]
   script: {{ PYTHON }} -m pip install . --no-deps --ignore-installed -vv
 
 requirements:
@@ -40,7 +40,7 @@ test:
     - mocpy_test.py
   imports:
     - mocpy
-    - astropy  
+    - astropy
   commands:
     - pip check
     - python mocpy_test.py
