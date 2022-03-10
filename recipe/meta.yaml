@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.10.0" %}
+{% set version = "0.11.0" %}
 
 
 package:
@@ -8,11 +8,11 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/MOCPy-{{ version }}.tar.gz
-  sha256: bd6ba5bb7b342135b4ca2697ea9d718d8b6b5e80fb7eed599e38c121d366d352
+  sha256: c360a8db13570a2c3201a677df842d156ba00aae0e3d15673fbbb51252e1f9df
 
 build:
-  number: 1
-  skip: true  # [py<35]
+  number: 0
+  skip: true  # [py<35 or python_impl == 'pypy']
   script: {{ PYTHON }} -m pip install . --no-deps --ignore-installed -vv
 
 requirements:
