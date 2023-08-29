@@ -1,11 +1,11 @@
-About mocpy
-===========
+About mocpy-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mocpy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cds-astro/mocpy
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mocpy-feedstock/blob/main/LICENSE.txt)
 
 Summary: MOC parsing and manipulation in Python
 
