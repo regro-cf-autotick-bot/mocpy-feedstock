@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.12.3" %}
+{% set version = "0.13.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mocpy-{{ version }}.tar.gz
-  sha256: 6f6358a120ce02b535b2ae59aa84e278f46af9b376f9fb6cc4d0892116065fee
+  sha256: 2d51a80cc1217aa8e726d84e786c16038071f88fb117b84479e32d5e2bac3b3c
 
 build:
   number: 0
@@ -94,8 +94,8 @@ about:
     - library_licenses/indoc-LICENSE-MIT
     - library_licenses/itoa-LICENSE-APACHE
     - library_licenses/itoa-LICENSE-MIT
-    - library_licenses/lexical-core-LICENSE-MIT 
-    - library_licenses/lexical-core-LICENSE-APACHE 
+    - library_licenses/lexical-core-LICENSE-MIT
+    - library_licenses/lexical-core-LICENSE-APACHE
     - library_licenses/libc-LICENSE-APACHE
     - library_licenses/libc-LICENSE-MIT
     - library_licenses/lock_api-LICENSE-APACHE
