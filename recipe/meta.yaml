@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.12.3" %}
+{% set version = "0.14.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mocpy-{{ version }}.tar.gz
-  sha256: 6f6358a120ce02b535b2ae59aa84e278f46af9b376f9fb6cc4d0892116065fee
+  sha256: 72120e4d15e4bd72a1d6444da311eb6d50194f9b4e49a8ef2463c920bc928d57
 
 build:
   number: 0
@@ -20,7 +20,9 @@ requirements:
     - python                                 # [build_platform != target_platform]
     - cross-python_{{ target_platform }}     # [build_platform != target_platform]
     - {{ compiler('c') }}              # [unix]
+    - {{ stdlib("c") }}                # [unix]
     - {{ compiler('m2w64_c') }}        # [win]
+    - {{ stdlib("m2w64_c") }}          # [win]
     - rust
   host:
     - pip
@@ -94,8 +96,8 @@ about:
     - library_licenses/indoc-LICENSE-MIT
     - library_licenses/itoa-LICENSE-APACHE
     - library_licenses/itoa-LICENSE-MIT
-    - library_licenses/lexical-core-LICENSE-MIT 
-    - library_licenses/lexical-core-LICENSE-APACHE 
+    - library_licenses/lexical-core-LICENSE-MIT
+    - library_licenses/lexical-core-LICENSE-APACHE
     - library_licenses/libc-LICENSE-APACHE
     - library_licenses/libc-LICENSE-MIT
     - library_licenses/lock_api-LICENSE-APACHE
