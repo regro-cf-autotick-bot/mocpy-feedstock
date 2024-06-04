@@ -103,7 +103,7 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.98a0f4bdacd6223a0b70.module.css" />
 
 
-  <title>unicode-ident/LICENSE-APACHE at master · dtolnay/unicode-ident · GitHub</title>
+  <title>adler/LICENSE-0BSD at master · jonas-schievink/adler · GitHub</title>
 
 
 
@@ -115,10 +115,10 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="B7B9:1E360B:3DCE01D:3EFAEE9:665EDE27" data-pjax-transient="true"/><meta name="html-safe-nonce" content="759dbbd37cfcdf3d8cec8bbb4d6bca68d1fac6794136a8562fadc3b681d61904" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCN0I5OjFFMzYwQjozRENFMDFEOjNFRkFFRTk6NjY1RURFMjciLCJ2aXNpdG9yX2lkIjoiMjY3MTkxMTA5NjU2ODE3NjE2NyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="0277203878a13a989d9a571806fdb6ad0f695b64b22d5b0bffe64b438ad5d4f7" data-pjax-transient="true"/>
+  <meta name="request-id" content="BF75:287A0:315FB5D:3263D30:665EDBCB" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a0908730cdee111e12d936aad54bbd7c73ac52892622f4c53cd7ae77db45d20b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCRjc1OjI4N0EwOjMxNUZCNUQ6MzI2M0QzMDo2NjVFREJDQiIsInZpc2l0b3JfaWQiOiI3MzMyMDA4MTI2NjM1MjM2Mjk5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="f37329a7976c6177f8e21e98e780f35a78dad9cda435e0a09d17773c0a5c909f" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:492639579" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:275024045" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
@@ -146,16 +146,16 @@
 
     
 
-      <meta name="description" content="Determine whether characters have the XID_Start or XID_Continue properties - unicode-ident/LICENSE-APACHE at master · dtolnay/unicode-ident">
+      <meta name="description" content="Rust crate for computing Adler-32 checksums. Contribute to jonas-schievink/adler development by creating an account on GitHub.">
 
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD" />
 
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/593517fefe5e911b5cc9439230da734f6eb36bb956390aae95ce2d0d42207b2d/dtolnay/unicode-ident" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="unicode-ident/LICENSE-APACHE at master · dtolnay/unicode-ident" /><meta name="twitter:description" content="Determine whether characters have the XID_Start or XID_Continue properties - dtolnay/unicode-ident" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/593517fefe5e911b5cc9439230da734f6eb36bb956390aae95ce2d0d42207b2d/dtolnay/unicode-ident" /><meta property="og:image:alt" content="Determine whether characters have the XID_Start or XID_Continue properties - dtolnay/unicode-ident" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="unicode-ident/LICENSE-APACHE at master · dtolnay/unicode-ident" /><meta property="og:url" content="https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE" /><meta property="og:description" content="Determine whether characters have the XID_Start or XID_Continue properties - dtolnay/unicode-ident" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/43f8cf8fa93d171139a68c10d0a1230b94604c2bda0262e98c402b94d6011c96/jonas-schievink/adler" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="adler/LICENSE-0BSD at master · jonas-schievink/adler" /><meta name="twitter:description" content="Rust crate for computing Adler-32 checksums. Contribute to jonas-schievink/adler development by creating an account on GitHub." />
+  <meta property="og:image" content="https://opengraph.githubassets.com/43f8cf8fa93d171139a68c10d0a1230b94604c2bda0262e98c402b94d6011c96/jonas-schievink/adler" /><meta property="og:image:alt" content="Rust crate for computing Adler-32 checksums. Contribute to jonas-schievink/adler development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="adler/LICENSE-0BSD at master · jonas-schievink/adler" /><meta property="og:url" content="https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD" /><meta property="og:description" content="Rust crate for computing Adler-32 checksums. Contribute to jonas-schievink/adler development by creating an account on GitHub." />
   
 
 
@@ -177,9 +177,9 @@
 
       <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
     <meta data-hydrostats="publish">
-  <meta name="go-import" content="github.com/dtolnay/unicode-ident git https://github.com/dtolnay/unicode-ident.git">
+  <meta name="go-import" content="github.com/jonas-schievink/adler git https://github.com/jonas-schievink/adler.git">
 
-  <meta name="octolytics-dimension-user_id" content="1940490" /><meta name="octolytics-dimension-user_login" content="dtolnay" /><meta name="octolytics-dimension-repository_id" content="492639579" /><meta name="octolytics-dimension-repository_nwo" content="dtolnay/unicode-ident" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="492639579" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dtolnay/unicode-ident" />
+  <meta name="octolytics-dimension-user_id" content="1786438" /><meta name="octolytics-dimension-user_login" content="jonas-schievink" /><meta name="octolytics-dimension-repository_id" content="275024045" /><meta name="octolytics-dimension-repository_nwo" content="jonas-schievink/adler" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="275024045" /><meta name="octolytics-dimension-repository_network_root_nwo" content="jonas-schievink/adler" />
 
 
 
@@ -263,9 +263,9 @@
       </a>
 
       <div class="flex-1">
-        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdtolnay%2Funicode-ident%2Fblob%2Fmaster%2FLICENSE-APACHE"
+        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjonas-schievink%2Fadler%2Fblob%2Fmaster%2FLICENSE-0BSD"
           class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae622d482c951b0c24b6c0b5339daf0bdc32a5fc8bc868edf813a891738df69d"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2703db5685d8a99462ddeb21d05a0c6fabdaa3e6b043c13aee9d954e4bb641f9"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -711,7 +711,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:dtolnay/unicode-ident" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Y5IW5uK0zxrWs6w-Aki1thlA_iPHkUGMi0aa0U23gM0kqOvTQybRn-MVhV4wTHEnpXYQMHUT3PO0vYJyiRxARA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="dtolnay/unicode-ident" data-current-org="" data-current-owner="dtolnay" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=tLq%2FnkhAQFFE%2Fxe9rfBRLfoL7kV%2Ffq3fehrHe4J1xxwceZUPMOh6Qmdyi%2BEWTN2pdsIgCmeKolTeYYtIlV1%2BFuXS0QD9QaRpDrfSbJmAIaybdcqOwh265ba2LYj9FhLA1wyNsrUHt1EbbDFPc8d8kmsIQvO6o5qvWnWiyMlybKLtwhXtyqjACbtgfvy9nZ%2Fq15Y3JlHJbMwG9aNfdRtLfRYenQHbOWvvvdSmwL%2BjP7DzYjAUvY9t7pUPHDdGaTjJZ%2FuqUDMPRMRMqr7k5aizqcH7gn2pIvNbQHbNGKKYFfTHG%2BxuIO5MZCfeSiTrJ5p5iwkey9GWj%2F%2FchHWEAqUAuezO7IcZUi%2BXYcGOE7%2BrzayHbbaWcN0IPCjQLAGMA2CfvrUG5kHt4DMDioDUlO56P%2F%2BzpHLmMqbC76z6RknBOdVwrLFiHMr0fFBAjRrNAbpuW9W%2Fhq%2FrUEPpCumPXZT%2BMl5Em15xpq0ge6IX7ClCbPIw%2FbZHELLyl%2FKshpjHyfkKtE2YxeWHaImPDsbG%2BPl2RGg8I3%2FqI9EsH9u2GXIp%2B9ywnLwaZ4AQEeYYMeIcWM10xt5kqoMs--Yj%2BK7n0v3NEYpQIJ--M98qdD0yuwjZPqYBDUo8vw%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:jonas-schievink/adler" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="O9VZrdXcwRuPbFqdqK7eC2ktajdJlHaDXgrqlyYabZJS20biIcI01g4tY0WiqGz9uuX14gPfPcbNhNd5Ge681g" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="jonas-schievink/adler" data-current-org="" data-current-owner="jonas-schievink" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=k7BIIJyfNCBWhoWMcDdeslc7WaudhTmSdihCLnA5bAG3iOfLKIAXSFjIDeABvoZQ2nyQjZSYbq8y8kpdYrMiib4kiN%2BC%2BGIo5fshBp84ZJqkmdhsGajhvcZ31AWQ4bixbH1vSSNscAwYsBtqOEKMFh5ki0rZ5kMStplfSG5CmI3k5pfl0rEdcDLgX8vy5MuHlnSTW2Q3H%2BN6hurCSPokO8gotjouOzk3pBnn6ILwfKWhCUvERbrEcykkJZDyZHNeWzGqCihBle%2F8P4Aw6oBbyUA6M%2Ba%2BUyDzE%2FgOWn7oAauJR39C8Sdy8pVbFy9NS2Fn%2B3bMW3vz%2FVYCGrmBwCd0SxhFQfwHQL0Ved63rNm%2Fh6o0rD4yT9VN1%2B99yJfnxLHGbhj8cFtEVsFW4H1TE5%2B8VUol7n61%2FhKPUZU26SZwdtmsP1tykZ7WyM2hLSVemolp7T%2FocvrQgLfz23klAwqduWTx7ZAmgecMaMKckuyaaktY0MQHw73BPi11hTHAo5S%2FlgnhGhPVp6mfHilCMRRr5Hzqa0EC82%2BDXkW6TwwBxU9EJwF2ax89pWFHFMroKcfTwJmKAeFV--cFsZ%2BhwbSP9M48P8--rPKldhX1XOM8sHi%2FAsw8yA%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -773,7 +773,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-1c7ac7ea-5939-46e2-86f1-a315849746c3" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-bd6bde14-3f17-4300-9816-39a87ad8f7c2" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1004,7 +1004,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-1c7ac7ea-5939-46e2-86f1-a315849746c3" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-bd6bde14-3f17-4300-9816-39a87ad8f7c2" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1047,7 +1047,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="DELo03kljkd50JhZl4NU0NujCP5+qVIMigYD3JoehUhr+rTS4i3uNuuhTIQ5Lm5eI5e5HBxFxCeElKntc5Bjcw==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="OO29AoMlxlROkHEE1pHnfemmNLyo3+ivomL7t76mIYQc76pXb3RsKDx41RMG8BjL0pExQ+N2Go24QCFzGJbKgw==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1085,7 +1085,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="04NlYEkKW2ssMlbbolxH0UAnqPPOcgQvYJn0xM+ShJCr/gH7rZDDQDEn3tJ4lzaTgHw0lTjDea2Dw1dFkLaNkw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="4TgrPs+AueK83uUwuUBkLWrpoGWKQGbB+2tW80iMXJUlNtB0AfT9e1B2NT9dKNyeQ7rzVOqqbyi7OZ/n0QDyyQ==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1103,7 +1103,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="VcL42lbdr/KfnjWuX9JscpJ2aY0Ng5MRt3vfCiaVC6ffi3biA47ublGZFpi+EdIKGpwJ6+sFHTKv3H2sopXmLg==" />
+              <input type="hidden" data-csrf="true" value="FnPjc8w+cXx2c/jeV2G0WMYJ1bt9rLG73yJauZkXSNwA+Z9CChFV6m8soVwXNNAE0xICpOAkD+H/mOBykyng2A==" />
             </auto-check>
           </div>
 
@@ -1140,21 +1140,21 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="KH5VD1FbwhR4lbl8BON05LKYZO2edGJ8K31GaPj8m+4Yjla4PNKegG1XBC8Ydg9P5LB7AT4xgC8r7b7QVmiHxw==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="8XrwgIBsbg0j2sPwPZmEOf6Pl5JEhrOb9zOC8HhxIUXF7so3OH/owpZQZaWryigVS/Uumt3/0zL1XwKfVT4QNA==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdtolnay%2Funicode-ident%2Fblob%2Fmaster%2FLICENSE-APACHE"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjonas-schievink%2Fadler%2Fblob%2Fmaster%2FLICENSE-0BSD"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae622d482c951b0c24b6c0b5339daf0bdc32a5fc8bc868edf813a891738df69d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2703db5685d8a99462ddeb21d05a0c6fabdaa3e6b043c13aee9d954e4bb641f9"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
           </div>
 
-            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=dtolnay%2Funicode-ident"
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=jonas-schievink%2Fadler"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae622d482c951b0c24b6c0b5339daf0bdc32a5fc8bc868edf813a891738df69d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2703db5685d8a99462ddeb21d05a0c6fabdaa3e6b043c13aee9d954e4bb641f9"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -1174,10 +1174,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-aa8be30a-8038-4684-9919-df3e27ed45cb" aria-labelledby="tooltip-65ecdd44-bd44-4875-8614-b19ee2ea0605" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-0fa89500-8bbe-4be0-a017-d5dce17cc278" aria-labelledby="tooltip-39250ca4-8693-4078-963e-0f74d8391ec7" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-65ecdd44-bd44-4875-8614-b19ee2ea0605" for="icon-button-aa8be30a-8038-4684-9919-df3e27ed45cb" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-39250ca4-8693-4078-963e-0f74d8391ec7" for="icon-button-0fa89500-8bbe-4be0-a017-d5dce17cc278" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1237,6 +1237,10 @@
       
       
 
+      <div class="flash flash-warn flash-full border-top-0 text-center text-bold py-2">
+    This repository has been archived by the owner on Mar 26, 2024. It is now read-only.
+  </div>
+
 
 
 
@@ -1255,15 +1259,15 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/dtolnay/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dtolnay">
-        dtolnay
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/jonas-schievink/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jonas-schievink">
+        jonas-schievink
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/dtolnay/unicode-ident">unicode-ident</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/jonas-schievink/adler">adler</a>
     </strong>
 
-    <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+    <span></span><span class="Label Label--attention v-align-middle mr-1">Public archive</span>
   </div>
 
 
@@ -1272,35 +1276,31 @@
         <div id="repository-details-container" data-turbo-replace>
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
     
-        <li>
-          <include-fragment src="/dtolnay/unicode-ident/sponsor_button"></include-fragment>
-        </li>
-
       
 
   <li>
-            <a href="/login?return_to=%2Fdtolnay%2Funicode-ident" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2414f2c5b947de05e3f58d2d69f7d55a6dd436c81ef6cc3a93f29d3e34fbbdd2" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fjonas-schievink%2Fadler" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed215fa37f711e0cb0459887cb835caad9ff5157b3bfb1348d2fe98c20315d90" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-6fae72b0-2bf8-42cc-916f-ee1f83e496cd" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-20c0295c-13ce-47bf-88fd-3599c0735ed6" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fdtolnay%2Funicode-ident" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:492639579,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b9c4a315acab5a4344078de96853f2bf7b7cc4a3da780e565c6f134b4af6f988" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fjonas-schievink%2Fadler" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:275024045,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="098675276e72eddc2946fb0f553c960761992cad0799723133d7547b1cf930ee" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="12" data-view-component="true" class="Counter">12</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="5" data-view-component="true" class="Counter">5</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fdtolnay%2Funicode-ident" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:492639579,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a7619f0cdf88646c359f0c49038e2c0e244fb488837ef58ba3e870f2c5c67ac6" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fjonas-schievink%2Fadler" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:275024045,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f2a83230b9bc616e7bb3a55f7b8e6e3605aca99cfd7d8817d65eedbbb7026938" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="66 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="66" data-view-component="true" class="Counter js-social-count">66</span>
+</span>          <span id="repo-stars-counter-star" aria-label="11 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="11" data-view-component="true" class="Counter js-social-count">11</span>
 </a>        <button aria-label="You must be signed in to add this repository to a list" type="button" disabled="disabled" data-view-component="true" class="btn-sm btn BtnGroup-item px-2">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
@@ -1324,7 +1324,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/dtolnay/unicode-ident" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /dtolnay/unicode-ident" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/jonas-schievink/adler" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /jonas-schievink/adler" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1336,7 +1336,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/dtolnay/unicode-ident/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /dtolnay/unicode-ident/issues /_view_fragments/issues/index/dtolnay/unicode-ident/layout" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/jonas-schievink/adler/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /jonas-schievink/adler/issues /_view_fragments/issues/index/jonas-schievink/adler/layout" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1348,19 +1348,19 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/dtolnay/unicode-ident/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /dtolnay/unicode-ident/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/jonas-schievink/adler/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /jonas-schievink/adler/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="1" data-view-component="true" class="Counter">1</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/dtolnay/unicode-ident/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /dtolnay/unicode-ident/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/jonas-schievink/adler/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /jonas-schievink/adler/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1372,18 +1372,30 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/dtolnay/unicode-ident/security" data-tab-item="i4security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /dtolnay/unicode-ident/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/jonas-schievink/adler/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /jonas-schievink/adler/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>
+        <span data-content="Projects">Projects</span>
+          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/jonas-schievink/adler/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /jonas-schievink/adler/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/dtolnay/unicode-ident/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/jonas-schievink/adler/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/dtolnay/unicode-ident/pulse" data-tab-item="i5insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dtolnay/unicode-ident/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/jonas-schievink/adler/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /jonas-schievink/adler/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1397,22 +1409,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-button" popovertarget="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-overlay" aria-controls="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-list" aria-haspopup="true" aria-labelledby="tooltip-8ce278ff-6e79-4e73-8905-61456372e075" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-button" popovertarget="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-overlay" aria-controls="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-list" aria-haspopup="true" aria-labelledby="tooltip-740d15cc-b708-4998-8902-cfba6c430fcc" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-8ce278ff-6e79-4e73-8905-61456372e075" for="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-740d15cc-b708-4998-8902-cfba6c430fcc" for="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-overlay" anchor="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-overlay" anchor="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-button" id="action-menu-937df8e6-c922-4a39-a295-91793d1ac4d5-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-button" id="action-menu-e3506515-4406-417e-b0f6-133de6e082dd-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c6d3bd9f-2bb8-464c-81c0-ea7755c11baa" href="/dtolnay/unicode-ident" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0b5053fc-8af0-4dc5-9bb9-c690a8da27fa" href="/jonas-schievink/adler" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1427,7 +1439,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-0b5b8227-d1b0-462f-852d-1b91fff7eb50" href="/dtolnay/unicode-ident/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c2b31d22-8338-448f-a25a-254676342db1" href="/jonas-schievink/adler/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1442,7 +1454,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-df4b1468-aa9a-4684-a80c-542ef6e1902d" href="/dtolnay/unicode-ident/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-bea5863b-7724-4cb6-8e2d-335b2d286ee0" href="/jonas-schievink/adler/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1457,7 +1469,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-447d4959-a41b-48a5-945a-f6c3785f920e" href="/dtolnay/unicode-ident/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-6edb7d61-1140-4501-a960-86ca2df9a041" href="/jonas-schievink/adler/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1469,10 +1481,25 @@
 </span></a>
   
 </li>
-        <li hidden="hidden" data-menu-item="i4security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+        <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7e4b12ff-d0be-4076-81d2-7d1b2b998c4d" href="/dtolnay/unicode-ident/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7ea9b0c2-1dde-418a-9f25-740405829f98" href="/jonas-schievink/adler/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Projects
+</span></a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-30a089b1-fc1d-4576-93e7-c49522323183" href="/jonas-schievink/adler/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1484,10 +1511,10 @@
 </span></a>
   
 </li>
-        <li hidden="hidden" data-menu-item="i5insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+        <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c299457c-7e98-461c-b57e-26f54c22d13f" href="/dtolnay/unicode-ident/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-4dd85594-bf26-4fae-86d4-e1565317f041" href="/jonas-schievink/adler/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1532,14 +1559,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/dtolnay/unicode-ident/blob/master/LICENSE-APACHE"
+  initial-path="/jonas-schievink/adler/blob/master/LICENSE-0BSD"
   style="display: block; min-height: calc(100vh - 64px)" 
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"benches","path":"benches","contentType":"directory"},{"name":"diagram","path":"diagram","contentType":"directory"},{"name":"generate","path":"generate","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":"tests","path":"tests","contentType":"directory"},{"name":".gitattributes","path":".gitattributes","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Cargo.toml","path":"Cargo.toml","contentType":"file"},{"name":"LICENSE-APACHE","path":"LICENSE-APACHE","contentType":"file"},{"name":"LICENSE-MIT","path":"LICENSE-MIT","contentType":"file"},{"name":"LICENSE-UNICODE","path":"LICENSE-UNICODE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":13}},"fileTreeProcessingTime":3.7004170000000003,"foldersToFetch":[],"repo":{"id":492639579,"defaultBranch":"master","name":"unicode-ident","ownerLogin":"dtolnay","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-05-16T00:44:49.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/1940490?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1695579677.0","canEdit":false,"refType":"branch","currentOid":"a8736e7e62be959d87970d2d137a098ba533d78b"},"path":"LICENSE-APACHE","currentUser":null,"blob":{"rawLines":["                              Apache License","                        Version 2.0, January 2004","                     http://www.apache.org/licenses/","","TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION","","1. Definitions.","","   \"License\" shall mean the terms and conditions for use, reproduction,","   and distribution as defined by Sections 1 through 9 of this document.","","   \"Licensor\" shall mean the copyright owner or entity authorized by","   the copyright owner that is granting the License.","","   \"Legal Entity\" shall mean the union of the acting entity and all","   other entities that control, are controlled by, or are under common","   control with that entity. For the purposes of this definition,","   \"control\" means (i) the power, direct or indirect, to cause the","   direction or management of such entity, whether by contract or","   otherwise, or (ii) ownership of fifty percent (50%) or more of the","   outstanding shares, or (iii) beneficial ownership of such entity.","","   \"You\" (or \"Your\") shall mean an individual or Legal Entity","   exercising permissions granted by this License.","","   \"Source\" form shall mean the preferred form for making modifications,","   including but not limited to software source code, documentation","   source, and configuration files.","","   \"Object\" form shall mean any form resulting from mechanical","   transformation or translation of a Source form, including but","   not limited to compiled object code, generated documentation,","   and conversions to other media types.","","   \"Work\" shall mean the work of authorship, whether in Source or","   Object form, made available under the License, as indicated by a","   copyright notice that is included in or attached to the work","   (an example is provided in the Appendix below).","","   \"Derivative Works\" shall mean any work, whether in Source or Object","   form, that is based on (or derived from) the Work and for which the","   editorial revisions, annotations, elaborations, or other modifications","   represent, as a whole, an original work of authorship. For the purposes","   of this License, Derivative Works shall not include works that remain","   separable from, or merely link (or bind by name) to the interfaces of,","   the Work and Derivative Works thereof.","","   \"Contribution\" shall mean any work of authorship, including","   the original version of the Work and any modifications or additions","   to that Work or Derivative Works thereof, that is intentionally","   submitted to Licensor for inclusion in the Work by the copyright owner","   or by an individual or Legal Entity authorized to submit on behalf of","   the copyright owner. For the purposes of this definition, \"submitted\"","   means any form of electronic, verbal, or written communication sent","   to the Licensor or its representatives, including but not limited to","   communication on electronic mailing lists, source code control systems,","   and issue tracking systems that are managed by, or on behalf of, the","   Licensor for the purpose of discussing and improving the Work, but","   excluding communication that is conspicuously marked or otherwise","   designated in writing by the copyright owner as \"Not a Contribution.\"","","   \"Contributor\" shall mean Licensor and any individual or Legal Entity","   on behalf of whom a Contribution has been received by Licensor and","   subsequently incorporated within the Work.","","2. Grant of Copyright License. Subject to the terms and conditions of","   this License, each Contributor hereby grants to You a perpetual,","   worldwide, non-exclusive, no-charge, royalty-free, irrevocable","   copyright license to reproduce, prepare Derivative Works of,","   publicly display, publicly perform, sublicense, and distribute the","   Work and such Derivative Works in Source or Object form.","","3. Grant of Patent License. Subject to the terms and conditions of","   this License, each Contributor hereby grants to You a perpetual,","   worldwide, non-exclusive, no-charge, royalty-free, irrevocable","   (except as stated in this section) patent license to make, have made,","   use, offer to sell, sell, import, and otherwise transfer the Work,","   where such license applies only to those patent claims licensable","   by such Contributor that are necessarily infringed by their","   Contribution(s) alone or by combination of their Contribution(s)","   with the Work to which such Contribution(s) was submitted. If You","   institute patent litigation against any entity (including a","   cross-claim or counterclaim in a lawsuit) alleging that the Work","   or a Contribution incorporated within the Work constitutes direct","   or contributory patent infringement, then any patent licenses","   granted to You under this License for that Work shall terminate","   as of the date such litigation is filed.","","4. Redistribution. You may reproduce and distribute copies of the","   Work or Derivative Works thereof in any medium, with or without","   modifications, and in Source or Object form, provided that You","   meet the following conditions:","","   (a) You must give any other recipients of the Work or","       Derivative Works a copy of this License; and","","   (b) You must cause any modified files to carry prominent notices","       stating that You changed the files; and","","   (c) You must retain, in the Source form of any Derivative Works","       that You distribute, all copyright, patent, trademark, and","       attribution notices from the Source form of the Work,","       excluding those notices that do not pertain to any part of","       the Derivative Works; and","","   (d) If the Work includes a \"NOTICE\" text file as part of its","       distribution, then any Derivative Works that You distribute must","       include a readable copy of the attribution notices contained","       within such NOTICE file, excluding those notices that do not","       pertain to any part of the Derivative Works, in at least one","       of the following places: within a NOTICE text file distributed","       as part of the Derivative Works; within the Source form or","       documentation, if provided along with the Derivative Works; or,","       within a display generated by the Derivative Works, if and","       wherever such third-party notices normally appear. The contents","       of the NOTICE file are for informational purposes only and","       do not modify the License. You may add Your own attribution","       notices within Derivative Works that You distribute, alongside","       or as an addendum to the NOTICE text from the Work, provided","       that such additional attribution notices cannot be construed","       as modifying the License.","","   You may add Your own copyright statement to Your modifications and","   may provide additional or different license terms and conditions","   for use, reproduction, or distribution of Your modifications, or","   for any such Derivative Works as a whole, provided Your use,","   reproduction, and distribution of the Work otherwise complies with","   the conditions stated in this License.","","5. Submission of Contributions. Unless You explicitly state otherwise,","   any Contribution intentionally submitted for inclusion in the Work","   by You to the Licensor shall be under the terms and conditions of","   this License, without any additional terms or conditions.","   Notwithstanding the above, nothing herein shall supersede or modify","   the terms of any separate license agreement you may have executed","   with Licensor regarding such Contributions.","","6. Trademarks. This License does not grant permission to use the trade","   names, trademarks, service marks, or product names of the Licensor,","   except as required for reasonable and customary use in describing the","   origin of the Work and reproducing the content of the NOTICE file.","","7. Disclaimer of Warranty. Unless required by applicable law or","   agreed to in writing, Licensor provides the Work (and each","   Contributor provides its Contributions) on an \"AS IS\" BASIS,","   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or","   implied, including, without limitation, any warranties or conditions","   of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A","   PARTICULAR PURPOSE. You are solely responsible for determining the","   appropriateness of using or redistributing the Work and assume any","   risks associated with Your exercise of permissions under this License.","","8. Limitation of Liability. In no event and under no legal theory,","   whether in tort (including negligence), contract, or otherwise,","   unless required by applicable law (such as deliberate and grossly","   negligent acts) or agreed to in writing, shall any Contributor be","   liable to You for damages, including any direct, indirect, special,","   incidental, or consequential damages of any character arising as a","   result of this License or out of the use or inability to use the","   Work (including but not limited to damages for loss of goodwill,","   work stoppage, computer failure or malfunction, or any and all","   other commercial damages or losses), even if such Contributor","   has been advised of the possibility of such damages.","","9. Accepting Warranty or Additional Liability. While redistributing","   the Work or Derivative Works thereof, You may choose to offer,","   and charge a fee for, acceptance of support, warranty, indemnity,","   or other liability obligations and/or rights consistent with this","   License. However, in accepting such obligations, You may act only","   on Your own behalf and on Your sole responsibility, not on behalf","   of any other Contributor, and only if You agree to indemnify,","   defend, and hold each Contributor harmless for any liability","   incurred by, or claims asserted against, such Contributor by reason","   of your accepting any such warranty or additional liability.","","END OF TERMS AND CONDITIONS"],"stylingDirectives":[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/dtolnay/unicode-ident/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"LICENSE-APACHE","displayUrl":"https://github.com/dtolnay/unicode-ident/blob/master/LICENSE-APACHE?raw=true","headerInfo":{"blobSize":"9.5 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"1b5ec8b","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdtolnay%2Funicode-ident%2Fblob%2Fmaster%2FLICENSE-APACHE","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"176","truncatedSloc":"150"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/dtolnay/unicode-ident/blob/master/LICENSE-APACHE","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/dtolnay/unicode-ident/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/dtolnay/unicode-ident/raw/master/LICENSE-APACHE","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":"/dtolnay/.github/blob/aaf06ac4e9b787c469c245fa89cd5c1358e9c700/.github/FUNDING.yml","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/dtolnay/unicode-ident/branches":{"post":"TZE6j24AfJ3Pd7rLTGlvBKVYlwlyi432ZAPZBVYWU2fvVpSwxgRrzoX_cvrLN-STpNAJIeCtFZ068eIntrhAKA"},"/repos/preferences":{"post":"mnlR6wunc9CaCMBs5k9aT7K-Wk4eGS_t2m5dSXMbb4OqiGQ8fnrIPPtJvSWuJOUwGRi3sXFTia9cKab0SIdNng"}}},"title":"unicode-ident/LICENSE-APACHE at master · dtolnay/unicode-ident","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"benches","path":"benches","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"CHANGELOG.md","path":"CHANGELOG.md","contentType":"file"},{"name":"Cargo.toml","path":"Cargo.toml","contentType":"file"},{"name":"LICENSE-0BSD","path":"LICENSE-0BSD","contentType":"file"},{"name":"LICENSE-APACHE","path":"LICENSE-APACHE","contentType":"file"},{"name":"LICENSE-MIT","path":"LICENSE-MIT","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"RELEASE_PROCESS.md","path":"RELEASE_PROCESS.md","contentType":"file"}],"totalCount":11}},"fileTreeProcessingTime":3.0466209999999996,"foldersToFetch":[],"repo":{"id":275024045,"defaultBranch":"master","name":"adler","ownerLogin":"jonas-schievink","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2020-06-25T22:06:09.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/1786438?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1614341535.772029","canEdit":false,"refType":"branch","currentOid":"a94f525f62698d699d1fb3cc9112db8c35662b16"},"path":"LICENSE-0BSD","currentUser":null,"blob":{"rawLines":["Copyright (C) Jonas Schievink \u003cjonasschievink@gmail.com\u003e","","Permission to use, copy, modify, and/or distribute this software for","any purpose with or without fee is hereby granted.","","THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES","WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF","MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR","ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES","WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN","AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT","OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."],"stylingDirectives":[[],[],[],[],[],[],[],[],[],[],[],[]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/jonas-schievink/adler/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"LICENSE-0BSD","displayUrl":"https://github.com/jonas-schievink/adler/blob/master/LICENSE-0BSD?raw=true","headerInfo":{"blobSize":"665 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"89336aa","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fjonas-schievink%2Fadler%2Fblob%2Fmaster%2FLICENSE-0BSD","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"12","truncatedSloc":"10"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/jonas-schievink/adler/blob/master/LICENSE-0BSD","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/jonas-schievink/adler/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/jonas-schievink/adler/raw/master/LICENSE-0BSD","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/jonas-schievink/adler/branches":{"post":"UoQbROuRKXe8XQJxPyHNoUsizUwduVcBWReHQSkM9sz8BKG-uaYY70kjhIfhNg7vxBLtzZIrSzfy6hdtGshwRw"},"/repos/preferences":{"post":"D0twaDsLVAaAl1qXEyOaPdNcvlea9W39XcM_CEcyRb6MWr3lxFrrQ2UYZJi6j76q3B5BzINX4gLMliQnuh0nxA"}}},"title":"adler/LICENSE-0BSD at master · jonas-schievink/adler","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
