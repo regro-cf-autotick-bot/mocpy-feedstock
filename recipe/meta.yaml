@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.14.0" %}
+{% set version = "0.16.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mocpy-{{ version }}.tar.gz
-  sha256: 72120e4d15e4bd72a1d6444da311eb6d50194f9b4e49a8ef2463c920bc928d57
+  sha256: 0733a572a7710f1222c35d97db1be35c22e99368982f9f06639d5ccb09a29069
 
 build:
   number: 0
