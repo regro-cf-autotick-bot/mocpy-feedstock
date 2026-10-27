@@ -1,5 +1,5 @@
 {% set name = "MOCPy" %}
-{% set version = "0.20.0" %}
+{% set version = "0.21.0" %}
 
 
 package:
@@ -7,11 +7,11 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/mocpy-{{ version }}.tar.gz
-  sha256: a593519e28eef91635ca151fc8b258ac6a56ae6c5c714bfdffc8ab167911f477
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/mocpy-{{ version }}.tar.gz
+  sha256: 4e89785c36aedd075fed2f5b909a26e0b72505603809eb56e654cbf1951191ed
 
 build:
-  number: 1
+  number: 0
   skip: true  # [python_impl == 'pypy']
   script: {{ PYTHON }} -m pip install . --no-deps --ignore-installed -vv
 
